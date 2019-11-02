@@ -1,2 +1,2 @@
-# matplotlib-recipes
-Common matplotlib recipes
+# Initial page
+
